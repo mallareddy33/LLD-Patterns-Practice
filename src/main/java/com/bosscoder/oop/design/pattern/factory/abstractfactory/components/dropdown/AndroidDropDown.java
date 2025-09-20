@@ -1,8 +1,0 @@
-package com.bosscoder.oop.design.pattern.factory.abstractfactory.components.dropdown;
-
-public class AndroidDropDown implements Dropdown{
-    @Override
-    public void paint() {
-        System.out.println("Hello, I am Android Dropdown");
-    }
-}
