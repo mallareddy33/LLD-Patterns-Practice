@@ -4,42 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ff88e5-8d93-435b-a503-9da8653e5e98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/AndroidUiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/Flutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/IosUiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/SupportedPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/UiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/buttons/AndroidButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/buttons/IosButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/dropdown/AndroidDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/dropdown/Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/components/dropdown/IOSDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/CarVehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/MotorCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/MotorCycleVehcileFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/praticalFactory/VehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/prototype/IntellijentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/prototype/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/prototype/StudentRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/singleton/Database.java" afterDir="false" />
+    <list default="true" id="28ff88e5-8d93-435b-a503-9da8653e5e98" name="Changes" comment="first commit : clean all files">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +25,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mallareddy33"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mallareddy33/LLD-Patterns-Practice.git",
+    "accountId": "90cb7268-3306-41ee-ab05-97e168bb7e15"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ynvoFMPktOTLZf7CuHULALJGZd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,20 +56,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
+    "Application.Student.executor": "Run",
     "Application.com.bosscoder.oop.design.pattern.factory.abstractfactory.Client.executor": "Debug",
     "Application.com.bosscoder.oop.design.pattern.factory.praticalFactory.Client.executor": "Run",
     "Application.com.bosscoder.oop.design.pattern.prototype.Client.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "practice",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mallareddy/LLD/LLD-Patterns-Practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,52 +84,13 @@
       <recent name="com.bosscoder.oop.design.pattern.factory.abstractfactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bosscoder.oop.design.pattern.prototype.Client">
+  <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bosscoder.oop.design.pattern.builder.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.malla.oop.design.pattern.builder.Client" />
       <module name="Bosscoder-LLD-EV7-EV8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bosscoder.oop.design.pattern.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bosscoder.oop.design.pattern.factory.abstractfactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bosscoder.oop.design.pattern.factory.abstractfactory.Client" />
-      <module name="Bosscoder-LLD-EV7-EV8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bosscoder.oop.design.pattern.factory.abstractfactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bosscoder.oop.design.pattern.factory.praticalFactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bosscoder.oop.design.pattern.factory.praticalFactory.Client" />
-      <module name="Bosscoder-LLD-EV7-EV8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bosscoder.oop.design.pattern.factory.praticalFactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bosscoder.oop.design.pattern.prototype.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bosscoder.oop.design.pattern.prototype.Client" />
-      <module name="Bosscoder-LLD-EV7-EV8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bosscoder.oop.design.pattern.prototype.*" />
+          <option name="PATTERN" value="com.malla.oop.design.pattern.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,20 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.bosscoder.oop.design.pattern.prototype.Client" />
-        <item itemvalue="Application.com.bosscoder.oop.design.pattern.factory.abstractfactory.Client" />
-        <item itemvalue="Application.com.bosscoder.oop.design.pattern.factory.praticalFactory.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -171,78 +114,96 @@
       <updated>1750483327636</updated>
       <workItem from="1750483328885" duration="8212000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit : clean all files">
+      <option name="closed" value="true" />
+      <created>1758400595719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758400595719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit : clean all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit : clean all files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java</url>
           <line>26</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java</url>
           <line>36</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java</url>
           <line>51</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java</url>
           <line>74</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/builder/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java</url>
           <line>12</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/Client.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/Client.java</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/Flutter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/Flutter.java</url>
           <line>8</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/Flutter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/Flutter.java</url>
           <line>16</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java</url>
           <line>12</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bosscoder/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
