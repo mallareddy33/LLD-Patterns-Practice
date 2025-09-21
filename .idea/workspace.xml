@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ff88e5-8d93-435b-a503-9da8653e5e98" name="Changes" comment="first commit : clean all files">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="28ff88e5-8d93-435b-a503-9da8653e5e98" name="Changes" comment="singleton pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mallareddy &lt;mallareddy304@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -80,6 +82,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.bosscoder.oop.design.pattern.factory.abstractfactory" />
     </key>
@@ -122,7 +127,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758400595719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="builder pattern">
+      <option name="closed" value="true" />
+      <created>1758460220095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758460220095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="builder pattern">
+      <option name="closed" value="true" />
+      <created>1758460281576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758460281576</updated>
+    </task>
+    <task id="LOCAL-00004" summary="singleton pattern">
+      <option name="closed" value="true" />
+      <created>1758460872564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758460872564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="singleton pattern">
+      <option name="closed" value="true" />
+      <created>1758461320889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758461320889</updated>
+    </task>
+    <task id="LOCAL-00006" summary="singleton pattern">
+      <option name="closed" value="true" />
+      <created>1758463454632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758463454633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +175,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit : clean all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit : clean all files" />
+    <MESSAGE value="builder pattern" />
+    <MESSAGE value="singleton pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="singleton pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,11 +246,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/factory/abstractfactory/UiPlatformFactory.java</url>
           <line>13</line>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/malla/oop/design/pattern/builder/Client.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
