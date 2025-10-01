@@ -1,5 +1,7 @@
 package com.malla.oop.design.pattern.builder;
-
+// add the logic the case when client wants to change the value of a attribute of an object
+// in such a case we use the builder object of existing object and then form a new object.
+// c( because generally objects formed using builder pattern are immutable )
 public class Student {
     private final String name;
     private final Integer age;
